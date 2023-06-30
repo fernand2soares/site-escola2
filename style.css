@@ -1,0 +1,445 @@
+
+
+img[src="logo.png"] {
+ margin-left: 20px;
+ top: 20px;
+}
+
+.h1, img[src="logo.png"], img[src="relogio.png"] {
+    position: relative; 
+    display: inline-block;
+}
+
+.p3 { text-align: justify}
+
+
+img[src="banner.png"] {
+
+  position: relative;
+  top: -50px;
+  margin-left: 20px;
+}  
+
+
+
+h1{position: relative;
+    margin-left: 160px;
+    top: -80px;
+
+
+}
+
+img[src="relogio.png"]{
+  position: relative;
+  top: -10px;
+  margin-left: 20px;
+}
+
+
+
+img[src="banner.jpg"] { 
+    position: relative;
+    
+
+}
+
+.horas {
+    position: relative;
+    margin-left: 100px;
+    top: -100px;
+    display: flex;
+    font-size: 22px;
+}
+
+
+
+
+
+
+.gestores {
+  position: relative;
+  margin-left: 300px;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+  font-style: italic;
+  color: white;
+
+} 
+
+.image-scrollbar{
+  width: 900px;
+  height: 250px;
+  overflow-x: scroll;
+  white-space: nowrap;
+  background-color: #D9D9D9;
+  display: inline-flex;
+
+}
+
+.image-container {
+  display: flex;
+}
+
+
+.image-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.image-name  {
+  margin-top: 5px;
+  font-size: 12px;
+  text-align: center;
+  color: black;
+}
+
+
+.image-container img {
+  width: 200px;
+  height: auto;
+  margin-right: 10px;
+}
+
+.rolagem  {
+  margin-top:-80px;
+  margin-left: 20px;
+
+}
+
+.gestores-container {
+  background-color: #018880; 
+  padding: 10px;
+  width: 880px
+}
+
+
+
+
+.relogio {
+
+
+    position: relative;
+    top: -40px;
+    display: flex;
+}
+
+
+
+
+img[src="fundo.png"]{ 
+
+   position: relative;
+   left: 950px;
+   margin-top: -636px;
+   display: block;
+
+ }
+
+
+ .professores {
+    position: relative;
+    top: 80px;
+ }
+
+ .mover {
+     position: absolute;
+      left: 1150px;
+      top: 80px ;
+      display: block;
+      transform: translate(-50%, -50%);
+       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+        color: white;
+
+ } 
+
+
+
+  .linhasmaior1 {
+   background-color: #018880; 
+   padding: 0px;
+   width: 880px;
+   margin-left: 22px;
+    margin-top: 90px;
+
+  }
+
+  .linhas1 {
+    position: relative;
+    margin-left: 300px;
+    font-size: 17px;
+    font-family: Arial, sans-serif;
+   font-style: italic;
+   color: white;
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .linhasmaior2 {
+   background-color: #018880; 
+   padding: 0px;
+   width: 880px;
+   margin-left: 22px;
+   top: 180px;
+
+  }
+
+  .linhas2 {
+    position: relative;
+    margin-left: 300px;
+    font-size: 17px;
+    font-family: Arial, sans-serif;
+   font-style: italic;
+   color: white;
+
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+  .linhasmaior3 {
+   background-color: #018880; 
+   padding: 0px;
+   width: 880px;
+   margin-left: 22px;
+   top: 160px;
+
+  }
+
+  .linhas3 {
+    position: relative;
+    margin-left: 300px;
+    font-size: 17px;
+    font-family: Arial, sans-serif;
+   font-style: italic;
+   color: white;
+
+  }
+
+
+
+  .whatssap {
+         position: relative;
+         top: -590px;
+         left: 200px;
+
+  }
+
+
+
+  .colegio {
+      position: relative;
+      left: 1000px;
+      top: -716px;
+      font-size: 21px;
+
+  }
+
+
+
+  .educaip {
+        position: relative;
+        top: 80px;
+        left: 20px;
+         }
+
+
+
+
+.escolaparana {
+  position: relative;
+  background-color: #018880; 
+  padding: 10px;
+  width: 300px;
+  left: 970px;
+  top: -560px;
+ 
+
+}
+
+
+.tag {
+  position: relative;
+  left: 31px;
+
+}
+
+
+.tag1 {
+  position: relative;
+  left: 100px;
+ color: white;
+ font-size: 17px;
+ font-family: Arial, sans-serif;
+   font-style: italic;
+}
+
+.tag2 {
+  position: relative;
+  left: 110px;
+  color: white;
+
+}
+
+
+.tag3 {
+  position: relative;
+  left: 90px;
+  color: white;
+ font-size: 17px;
+ font-family: Arial, sans-serif;
+   font-style: italic;
+}
+
+
+
+.sobrenos {
+   position: relative;
+   width: 700px;
+  height: 30px;
+  background-color: #018880;
+  display: inline-flex;
+  align-items: center;
+  margin-left: 340px;
+  margin-top: -60px;
+
+
+}
+
+
+
+.sobre {
+    position: relative;
+      color: white;
+ font-size: 17px;
+ font-family: Arial, sans-serif;
+   font-style: italic;
+   left: 290px;
+
+
+}
+
+.inicio {
+    position: relative;
+   width: 1270px;
+  height: 300px;
+  background-color: #D9D9D9;
+  margin-top: -23px;
+  left: 20px;
+  font-size: 20px;
+}
+
+
+.acabalogo {
+           background-color: #787676;
+           width: 1270px;
+  height: 300px;
+  margin-left: 20px;
+
+
+}
+
+.acaba {
+
+      position: relative;
+      margin-left: 530px;
+      top: 40px;
+
+
+} 
+
+
+.ultimo {
+      position: relative;
+      top: -320px;
+
+
+}
+
+
+.aparecer {
+        
+            position: relative;
+            text-align: center;
+        
+
+}
+
+
+.acima {
+     top: 50px;
+
+
+}
+
+
+.mover2 {
+      display: block;
+      margin-bottom: 10px; 
+    position: absolute;
+      display: block;
+      transform: translate(-50%, -50%);
+       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+        color: white;
+  
+    left: 1180px;
+     font-size: 20px;
+     top: 350px;
+
+
+ }
+
+
+
+@media (max-width: 480px) {
+    .img {
+       max-width: 70%;
+
+    }
+
+
+}
+
+
+@media (min-width: 768px) {
+      .img {
+          display: block;
+          margin: 0;
+
+
+      }
+
+
+
+}
+
+
+@media (max-width: 480px) 
+    {
+#container 
+    { 
+        text-align: center;}
+      }
+
